@@ -1,0 +1,7 @@
+pyshark
+pandas
+matplotlib
+folium
+scikit-learn
+joblib
+requests
